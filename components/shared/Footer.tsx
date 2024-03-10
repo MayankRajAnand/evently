@@ -14,7 +14,7 @@ const Footer = () => {
             alt="logo"
           />
         </Link>
-        <p>2023 Evently. All rights reserved</p>
+        <p>2024 Evently. All rights reserved</p>
       </div>
     </footer>
   );
